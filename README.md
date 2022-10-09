@@ -1,5 +1,4 @@
-# SIL
-Sometimes I Learn
+# Sometimes I Learn
 
 ## CS
 
