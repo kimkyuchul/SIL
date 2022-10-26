@@ -13,4 +13,10 @@
 - [HTTP 기본개념](https://github.com/kimkyuchul/SIL/issues/2)
 - [RESTful API 😶‍🌫️](https://github.com/kimkyuchul/SIL/issues/1)
 
-## Deep Learning
+- [CNN 1](https://github.com/kimkyuchul/SIL/issues/8)
+- [CNN 2](https://github.com/kimkyuchul/SIL/issues/9)
+- [CNN 3](https://github.com/kimkyuchul/SIL/issues/10)
+- [CNN 4](https://github.com/kimkyuchul/SIL/issues/11)
+- [RNN 1](https://github.com/kimkyuchul/SIL/issues/12)
+- [RNN 2](https://github.com/kimkyuchul/SIL/issues/13)
+
