@@ -12,7 +12,6 @@
 ## CS
 - [HTTP 기본개념](https://github.com/kimkyuchul/SIL/issues/2)
 - [RESTful API 😶‍🌫️](https://github.com/kimkyuchul/SIL/issues/1)
-
 - [CNN 1편](https://github.com/kimkyuchul/SIL/issues/8)
 - [CNN 2편](https://github.com/kimkyuchul/SIL/issues/9)
 - [CNN 3편](https://github.com/kimkyuchul/SIL/issues/10)
