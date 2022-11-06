@@ -9,6 +9,7 @@
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
 - [What is @escaping in Swift Closures](https://github.com/kimkyuchul/SIL/issues/7)
 - [Singleton Pattern](https://github.com/kimkyuchul/SIL/issues/14)
+- [Type Casting](https://github.com/kimkyuchul/SIL/issues/15)
 
 ## CS
 - [HTTP 기본개념](https://github.com/kimkyuchul/SIL/issues/2)
