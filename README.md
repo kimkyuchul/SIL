@@ -6,7 +6,7 @@
 - [Main.sync의 데드락 발생 원인](https://github.com/kimkyuchul/SIL/issues/5)
 - [MVVM Design Pattern Explained with Example 1](https://github.com/kimkyuchul/SIL/issues/16)
 - [MVVM Design Pattern Explained with Example 2](https://github.com/kimkyuchul/SIL/issues/17)
-- [URLSession](https://github.com/kimkyuchul/SIL/issues/18)
+- [Moya](https://github.com/kimkyuchul/SIL/issues/18)
 
 
 ## Swift
