@@ -15,6 +15,7 @@
 - [Singleton Pattern](https://github.com/kimkyuchul/SIL/issues/14)
 - [Type Casting](https://github.com/kimkyuchul/SIL/issues/15)
 - [contains와 firstIndex](https://github.com/kimkyuchul/SIL/issues/19)
+- [ARC (strong , weak, unowned, 순환 참조) 1](https://github.com/kimkyuchul/SIL/issues/21)
 
 ## CS
 - [HTTP 기본개념](https://github.com/kimkyuchul/SIL/issues/2)
