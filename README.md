@@ -9,6 +9,7 @@
 - [Moya](https://github.com/kimkyuchul/SIL/issues/18)
 - [Designated init? Convenience init?](https://github.com/kimkyuchul/SIL/issues/20)
 - [TableView 안에 CollectionView가 있을 때 Cell의 reuse에 대한 오류 해결](https://github.com/kimkyuchul/SIL/issues/23)
+- [Apple Login](https://github.com/kimkyuchul/SIL/issues/24)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
