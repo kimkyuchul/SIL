@@ -13,7 +13,8 @@
 - [PageViewController + CollectionView](https://github.com/kimkyuchul/SIL/issues/28)
 - [Compositional Layout](https://github.com/kimkyuchul/SIL/issues/29)
 - [Alamofire - RequestInterceptor](https://github.com/kimkyuchul/SIL/issues/30)
-- [iOS in SOLID](https://github.com/kimkyuchul/SIL/issues/31)
+- [Moya스러운 URLSession](https://github.com/kimkyuchul/SIL/issues/31)
+- [iOS in SOLID](https://github.com/kimkyuchul/SIL/issues/32)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
