@@ -11,6 +11,9 @@
 - [TableView 안에 CollectionView가 있을 때 Cell의 reuse에 대한 오류 해결](https://github.com/kimkyuchul/SIL/issues/23)
 - [Apple Login](https://github.com/kimkyuchul/SIL/issues/24)
 - [PageViewController + CollectionView](https://github.com/kimkyuchul/SIL/issues/28)
+- [Compositional Layout](https://github.com/kimkyuchul/SIL/issues/29)
+- [Alamofire - RequestInterceptor](https://github.com/kimkyuchul/SIL/issues/30)
+- [iOS in SOLID](https://github.com/kimkyuchul/SIL/issues/31)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
