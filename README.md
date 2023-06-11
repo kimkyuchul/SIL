@@ -10,6 +10,7 @@
 - [Designated init? Convenience init?](https://github.com/kimkyuchul/SIL/issues/20)
 - [TableView 안에 CollectionView가 있을 때 Cell의 reuse에 대한 오류 해결](https://github.com/kimkyuchul/SIL/issues/23)
 - [Apple Login](https://github.com/kimkyuchul/SIL/issues/24)
+- [PageViewController + CollectionView](https://github.com/kimkyuchul/SIL/issues/28)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
@@ -19,6 +20,9 @@
 - [contains와 firstIndex](https://github.com/kimkyuchul/SIL/issues/19)
 - [ARC (strong , weak, unowned, 순환 참조) 1](https://github.com/kimkyuchul/SIL/issues/21)
 - [ARC (strong , weak, unowned, 순환 참조) 2](https://github.com/kimkyuchul/SIL/issues/22)
+- [Swift In @propertyWrapper](https://github.com/kimkyuchul/SIL/issues/25)
+- [Static](https://github.com/kimkyuchul/SIL/issues/26)
+- [Struct Class](https://github.com/kimkyuchul/SIL/issues/27)
 
 ## CS
 - [HTTP 기본개념](https://github.com/kimkyuchul/SIL/issues/2)
