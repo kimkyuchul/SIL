@@ -29,8 +29,8 @@
 - [Struct Class](https://github.com/kimkyuchul/SIL/issues/27)
 
 ## RxSwift
-- [RxSwift로 회원가입 리펙토링]([https://github.com/kimkyuchul/SIL/issues/27](https://gravel-drink-4ae.notion.site/RxSwift-1ed8afc381424694aa71e568bda6175f?pvs=4))
-- [withUnretained](https://gravel-drink-4ae.notion.site/withUnretained-80288568a38c461595c4a068b691b3bd?pvs=4)]
+- [RxSwift로 회원가입 리펙토링](https://gravel-drink-4ae.notion.site/RxSwift-1ed8afc381424694aa71e568bda6175f?pvs=4))
+- [withUnretained](https://gravel-drink-4ae.notion.site/withUnretained-80288568a38c461595c4a068b691b3bd?pvs=4)
 - [distinctUntilChanged()](https://gravel-drink-4ae.notion.site/distinctUntilChanged-2449e733e2b343e6b6e2ec9a672b31ff?pvs=4)
 
 ## CS
