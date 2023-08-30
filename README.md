@@ -16,6 +16,7 @@
 - [Moya스러운 URLSession](https://github.com/kimkyuchul/SIL/issues/31)
 - [iOS in SOLID](https://github.com/kimkyuchul/SIL/issues/32)
 - [iOS의 Pagination](https://github.com/kimkyuchul/SIL/issues/33)
+- [URL Loading System](https://github.com/kimkyuchul/SIL/issues/36)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
