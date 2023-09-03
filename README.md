@@ -33,6 +33,7 @@
 - [Struct Class](https://github.com/kimkyuchul/SIL/issues/27)
 - [Enums must not contain stored properties](https://github.com/kimkyuchul/SIL/issues/34)
 - [lazy var에 weak를 쓸 수 없는 이유](https://github.com/kimkyuchul/SIL/issues/35)
+- [OptimizationTips](https://github.com/kimkyuchul/SIL/issues/39)
 
 ## RxSwift
 - [RxSwift로 회원가입 리펙토링](https://gravel-drink-4ae.notion.site/RxSwift-1ed8afc381424694aa71e568bda6175f?pvs=4)
