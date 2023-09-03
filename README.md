@@ -17,7 +17,7 @@
 - [iOS in SOLID](https://github.com/kimkyuchul/SIL/issues/32)
 - [iOS의 Pagination](https://github.com/kimkyuchul/SIL/issues/33)
 - [URL Loading System](https://github.com/kimkyuchul/SIL/issues/36)
-- [URLSession 정리](https://github.com/kimkyuchul/SIL/issues/38)
+- [URLSession 전체적인 흐름과 개념](https://github.com/kimkyuchul/SIL/issues/38)
 - [delegate의 weak var와 protocol AnyObject](https://github.com/kimkyuchul/SIL/issues/37)
 
 ## Swift
