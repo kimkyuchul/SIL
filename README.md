@@ -43,6 +43,9 @@
 - [Rx에서 viewDidLoad 사용 시 주의](https://github.com/kimkyuchul/SIL/issues/41)
 - [ActionSheet Extension With Subject](https://github.com/kimkyuchul/SIL/issues/42)
 
+## Xcode
+- [Firebase Crashlytics 설정시 Build Phases > Run script의 Based on dependency analysis Warning](https://github.com/kimkyuchul/SIL/issues/43)
+
 ## CS
 - [HTTP 기본개념](https://github.com/kimkyuchul/SIL/issues/2)
 - [RESTful API 😶‍🌫️](https://github.com/kimkyuchul/SIL/issues/1)
