@@ -42,6 +42,7 @@
 - [distinctUntilChanged()](https://gravel-drink-4ae.notion.site/distinctUntilChanged-2449e733e2b343e6b6e2ec9a672b31ff?pvs=4)
 - [Rx에서 viewDidLoad 사용 시 주의](https://github.com/kimkyuchul/SIL/issues/41)
 - [ActionSheet Extension With Subject](https://github.com/kimkyuchul/SIL/issues/42)
+- [PublishRelay에서 asDriver() method를 사용하지 못하는 이유](https://github.com/kimkyuchul/SIL/issues/44)
 
 ## Xcode
 - [Firebase Crashlytics 설정시 Build Phases > Run script의 "Based on dependency analysis" Warning](https://github.com/kimkyuchul/SIL/issues/43)
