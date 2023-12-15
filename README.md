@@ -20,6 +20,7 @@
 - [URLSession 전체적인 흐름과 개념](https://github.com/kimkyuchul/SIL/issues/38)
 - [delegate의 weak var와 protocol AnyObject](https://github.com/kimkyuchul/SIL/issues/37)
 - [RealmSwift Migration](https://github.com/kimkyuchul/SIL/issues/40)
+- [iOS의 Push Notification 방식에 대해 설명](https://github.com/kimkyuchul/SIL/issues/46)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
