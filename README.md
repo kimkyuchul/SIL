@@ -21,6 +21,7 @@
 - [delegate의 weak var와 protocol AnyObject](https://github.com/kimkyuchul/SIL/issues/37)
 - [RealmSwift Migration](https://github.com/kimkyuchul/SIL/issues/40)
 - [iOS의 Push Notification 방식에 대해 설명](https://github.com/kimkyuchul/SIL/issues/46)
+- [UICollectionView reload 시 깜박거리는 애니메이션 제거하기](https://github.com/kimkyuchul/SIL/issues/47)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
