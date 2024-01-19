@@ -47,6 +47,7 @@
 - [PublishRelay에서 asDriver() method를 사용하지 못하는 이유](https://github.com/kimkyuchul/SIL/issues/44)
 - [Reactive 프로그래밍이란 무엇인가요?](https://github.com/kimkyuchul/SIL/issues/45)
 - [[RxDataSource] Instance method 'items(dataSource:)' requires that 'CollectionViewSectionedDataSource<T>' conform to 'RxCollectionViewDataSourceType’](https://github.com/kimkyuchul/SIL/issues/48)
+- [[RxSwift] let sink = FlatMap Sink(selector: self.selector, observer: observer, cancel: cancel) ← will crash](https://github.com/kimkyuchul/SIL/issues/50)
 
 ## Xcode
 - [Firebase Crashlytics 설정시 Build Phases > Run script의 "Based on dependency analysis" Warning](https://github.com/kimkyuchul/SIL/issues/43)
