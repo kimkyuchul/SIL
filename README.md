@@ -51,6 +51,7 @@
 - [Reactive 프로그래밍이란 무엇인가요?](https://github.com/kimkyuchul/SIL/issues/45)
 - [[RxDataSource] Instance method 'items(dataSource:)' requires that 'CollectionViewSectionedDataSource<T>' conform to 'RxCollectionViewDataSourceType’](https://github.com/kimkyuchul/SIL/issues/48)
 - [[RxSwift] let sink = FlatMap Sink(selector: self.selector, observer: observer, cancel: cancel) ← will crash](https://github.com/kimkyuchul/SIL/issues/50)
+- [NotificationCenter.default.rx.notification 사용 시 주의사항](https://github.com/kimkyuchul/SIL/issues/53)
 
 ## Xcode
 - [Firebase Crashlytics 설정시 Build Phases > Run script의 "Based on dependency analysis" Warning](https://github.com/kimkyuchul/SIL/issues/43)
