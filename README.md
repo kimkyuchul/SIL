@@ -56,7 +56,7 @@
 ## Xcode
 - [Firebase Crashlytics 설정시 Build Phases > Run script의 "Based on dependency analysis" Warning](https://github.com/kimkyuchul/SIL/issues/43)
 - [M시리즈 Mac에서 CocoaPods 설정](https://github.com/kimkyuchul/SIL/issues/49)
-- [CocoaPods에서 라이브러리를 Podfile에 추가할 때 버전 번호 명시를 안한다면?](https://github.com/kimkyuchul/SIL/issues/54)
+- [CocoaPods Podfile에 버전 명시를 안한다면?](https://github.com/kimkyuchul/SIL/issues/54)
 
 ## CS
 - [HTTP 기본개념](https://github.com/kimkyuchul/SIL/issues/2)
