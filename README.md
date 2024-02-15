@@ -54,10 +54,11 @@
 - [NotificationCenter.default.rx.notification 사용 시 주의사항](https://github.com/kimkyuchul/SIL/issues/53)
 - [사용자 스크롤 타이밍 감지 with Rx](https://github.com/kimkyuchul/SIL/issues/55)
 
-## Xcode
+## Xcode && Tuist
 - [Firebase Crashlytics 설정시 Build Phases > Run script의 "Based on dependency analysis" Warning](https://github.com/kimkyuchul/SIL/issues/43)
 - [M시리즈 Mac에서 CocoaPods 설정](https://github.com/kimkyuchul/SIL/issues/49)
 - [CocoaPods Podfile에 버전 명시를 안한다면?](https://github.com/kimkyuchul/SIL/issues/54)
+- [Tuist에서 CocoaPods 사용하기](https://github.com/kimkyuchul/SIL/issues/56)
 
 ## CS
 - [HTTP 기본개념](https://github.com/kimkyuchul/SIL/issues/2)
