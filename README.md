@@ -62,6 +62,7 @@
 - [Tuist에서 CocoaPods 사용하기](https://github.com/kimkyuchul/SIL/issues/56)
 - [Tuist Realm(ObjC 기반 라이브러리) 추가 시 Carthage로 해결했던 방법](https://github.com/kimkyuchul/SIL/issues/58)
 - [Tuist XCconfig 설정](https://github.com/kimkyuchul/SIL/issues/59)
+- [[Tuist] One of the two will be used. Which one is undefined](https://github.com/kimkyuchul/SIL/issues/60)
 
 ## CS
 - [HTTP 기본개념](https://github.com/kimkyuchul/SIL/issues/2)
