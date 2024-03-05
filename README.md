@@ -55,7 +55,7 @@
 - [NotificationCenter.default.rx.notification 사용 시 주의사항](https://github.com/kimkyuchul/SIL/issues/53)
 - [사용자 스크롤 타이밍 감지 with Rx](https://github.com/kimkyuchul/SIL/issues/55)
 
-## Xcode && Tuist
+## Xcode && Tuist && fastlane
 - [Firebase Crashlytics 설정시 Build Phases > Run script의 "Based on dependency analysis" Warning](https://github.com/kimkyuchul/SIL/issues/43)
 - [M시리즈 Mac에서 CocoaPods 설정](https://github.com/kimkyuchul/SIL/issues/49)
 - [CocoaPods Podfile에 버전 명시를 안한다면?](https://github.com/kimkyuchul/SIL/issues/54)
@@ -63,6 +63,7 @@
 - [Tuist Realm(ObjC 기반 라이브러리) 추가 시 Carthage로 해결했던 방법](https://github.com/kimkyuchul/SIL/issues/58)
 - [Tuist XCconfig 설정](https://github.com/kimkyuchul/SIL/issues/59)
 - [[Tuist] One of the two will be used. Which one is undefined](https://github.com/kimkyuchul/SIL/issues/60)
+- [[fastlane + CocoaPods] The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 17.0.99.](https://github.com/kimkyuchul/SIL/issues/61)
 
 ## CS
 - [HTTP 기본개념](https://github.com/kimkyuchul/SIL/issues/2)
