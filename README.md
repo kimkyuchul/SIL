@@ -26,7 +26,7 @@
 - [iOS에서 languageCode 값 얻기 (다국어)](https://github.com/kimkyuchul/SIL/issues/57)
 
 ## SwiftUI
-- [Xcode15 SwiftUI Preview layout](https://github.com/kimkyuchul/SIL/issues/61)
+- [Xcode15 SwiftUI Preview layout](https://github.com/kimkyuchul/SIL/issues/62)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
