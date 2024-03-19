@@ -29,6 +29,7 @@
 - [Xcode15 SwiftUI Preview layout](https://github.com/kimkyuchul/SIL/issues/62)
 - [SwiftUI 객체 상태 감지 Property Wrappers 초간단 정리](https://github.com/kimkyuchul/SIL/issues/63)
 - [UIViewControllerRepresentable, UIViewRepresentable](https://github.com/kimkyuchul/SIL/issues/64)
+- [ForEach + Enum](https://github.com/kimkyuchul/SIL/issues/65)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
