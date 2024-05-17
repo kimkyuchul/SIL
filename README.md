@@ -24,6 +24,7 @@
 - [UICollectionView reload 시 깜박거리는 애니메이션 제거하기](https://github.com/kimkyuchul/SIL/issues/47)
 - [UIProgressView의 Progress Rounded corners](https://github.com/kimkyuchul/SIL/issues/51)
 - [iOS에서 languageCode 값 얻기 (다국어)](https://github.com/kimkyuchul/SIL/issues/57)
+- [SkeletonView](https://github.com/kimkyuchul/SIL/issues/68)
 
 ## SwiftUI
 - [Xcode15 SwiftUI Preview layout](https://github.com/kimkyuchul/SIL/issues/62)
