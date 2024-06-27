@@ -27,6 +27,7 @@
 - [SkeletonView](https://github.com/kimkyuchul/SIL/issues/68)
 - [JSONSerialization와 JSONEncoder() 차이](https://github.com/kimkyuchul/SIL/issues/71)
 - [Continuations in Swift](https://github.com/kimkyuchul/SIL/issues/72)
+- [SnapKit Constraint update 활용하여 동적 높이 CollectionView 구현](https://github.com/kimkyuchul/SIL/issues/74)
 
 ## SwiftUI
 - [Xcode15 SwiftUI Preview layout](https://github.com/kimkyuchul/SIL/issues/62)
