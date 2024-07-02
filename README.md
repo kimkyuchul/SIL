@@ -66,6 +66,7 @@
 - [[RxSwift] let sink = FlatMap Sink(selector: self.selector, observer: observer, cancel: cancel) ← will crash](https://github.com/kimkyuchul/SIL/issues/50)
 - [NotificationCenter.default.rx.notification 사용 시 주의사항](https://github.com/kimkyuchul/SIL/issues/53)
 - [사용자 스크롤 타이밍 감지 with Rx](https://github.com/kimkyuchul/SIL/issues/55)
+- [[RxSwift] rx.text의 controlPropertyWithDefaultEvents](https://github.com/kimkyuchul/SIL/issues/75)
 
 ## Xcode & Tuist & fastlane
 - [Firebase Crashlytics 설정시 Build Phases > Run script의 "Based on dependency analysis" Warning](https://github.com/kimkyuchul/SIL/issues/43)
