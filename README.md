@@ -37,6 +37,7 @@
 - [Toolbar에서 NavigationLink가 작동하지 않는 문제](https://github.com/kimkyuchul/SIL/issues/66)
 - [Hide navigation bar without losing swipe back gesture in SwiftUI](https://github.com/kimkyuchul/SIL/issues/67)
 - [Text의 Font Size를 Frame에 알맞게 조절하기 Like UIkit SizeToFit](https://github.com/kimkyuchul/SIL/issues/76)
+- [Multiline TextField](https://github.com/kimkyuchul/SIL/issues/77)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
