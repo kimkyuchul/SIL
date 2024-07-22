@@ -39,6 +39,7 @@
 - [Text의 Font Size를 Frame에 알맞게 조절하기 Like UIkit SizeToFit](https://github.com/kimkyuchul/SIL/issues/76)
 - [Multiline TextField](https://github.com/kimkyuchul/SIL/issues/77)
 - [Sticky bottom View in ScrollView](https://github.com/kimkyuchul/SIL/issues/78)
+- [Keyboard avoidance 막기](https://github.com/kimkyuchul/SIL/issues/79)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
