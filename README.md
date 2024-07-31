@@ -41,6 +41,7 @@
 - [Sticky bottom View in ScrollView](https://github.com/kimkyuchul/SIL/issues/78)
 - [Keyboard avoidance 막기](https://github.com/kimkyuchul/SIL/issues/79)
 - [withAnimation와 animation 차이 feat. TCA](https://github.com/kimkyuchul/SIL/issues/80)
+- [Optional @ViewBuilder closure](https://github.com/kimkyuchul/SIL/issues/81)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
