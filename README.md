@@ -85,6 +85,7 @@
 - [[fastlane + CocoaPods] The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 11.0, but the range of supported deployment target versions is 12.0 to 17.0.99.](https://github.com/kimkyuchul/SIL/issues/61)
 - [Xcode15) Sandbox: bash deny(1) file-write-create 에러](https://github.com/kimkyuchul/SIL/issues/70)
 - [[Macro] external macro implementation type 'composablearchitecturemacros.observablestatemacro' could not be found for macro 'observablestate()’](https://github.com/kimkyuchul/SIL/issues/73)
+- [[fastlane] ComputeTargetDependencyGraph ARCHIVE FAILED 이슈](https://github.com/kimkyuchul/SIL/issues/82)
 
 ## CS
 - [HTTP 기본개념](https://github.com/kimkyuchul/SIL/issues/2)
