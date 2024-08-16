@@ -44,6 +44,7 @@
 - [withAnimation와 animation 차이 feat. TCA](https://github.com/kimkyuchul/SIL/issues/80)
 - [Optional @ViewBuilder closure](https://github.com/kimkyuchul/SIL/issues/81)
 - [iOS 15 이하 Text underline](https://github.com/kimkyuchul/SIL/issues/83)
+- [ZStack in HideAnimation 동작하지 않는 문제 (SwiftUI Custom Toast)](https://github.com/kimkyuchul/SIL/issues/85)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
