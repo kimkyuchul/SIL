@@ -46,6 +46,7 @@
 - [iOS 15 이하 Text underline](https://github.com/kimkyuchul/SIL/issues/83)
 - [ZStack in HideAnimation 동작하지 않는 문제 (SwiftUI Custom Toast)](https://github.com/kimkyuchul/SIL/issues/85)
 - [TCA Binding 주의해야 할 점 (sending 메서드)](https://github.com/kimkyuchul/SIL/issues/86)
+- [TCA PresentationState 사용 시 Delegate Action](https://github.com/kimkyuchul/SIL/issues/87)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
