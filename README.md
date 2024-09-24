@@ -48,6 +48,7 @@
 - [TCA Binding 주의해야 할 점 (sending 메서드)](https://github.com/kimkyuchul/SIL/issues/86)
 - [TCA PresentationState 사용 시 Delegate Action](https://github.com/kimkyuchul/SIL/issues/87)
 - [SwiftUI에서 viewWillDisappear 사용하는 방법](https://github.com/kimkyuchul/SIL/issues/88)
+- [SwiftUI 특정 뷰에서 background → Foreground 진입 시점 확인하는 방법](https://github.com/kimkyuchul/SIL/issues/89)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
