@@ -50,6 +50,7 @@
 - [SwiftUI에서 viewWillDisappear 사용하는 방법](https://github.com/kimkyuchul/SIL/issues/88)
 - [SwiftUI 특정 뷰에서 background → Foreground 진입 시점 확인하는 방법](https://github.com/kimkyuchul/SIL/issues/89)
 - [iOS 16 이하에서 TCA FullScreenCover 사용시 이슈](https://github.com/kimkyuchul/SIL/issues/90)
+- [.sheet 내부에서 UIViewControllerRepresentable or UIViewRepresentable 사용 시 sheet가 빈화면으로 먼저 노출되는 이슈](https://github.com/kimkyuchul/SIL/issues/91)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
