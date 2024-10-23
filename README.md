@@ -83,7 +83,7 @@
 - [사용자 스크롤 타이밍 감지 with Rx](https://github.com/kimkyuchul/SIL/issues/55)
 - [[RxSwift] rx.text의 controlPropertyWithDefaultEvents](https://github.com/kimkyuchul/SIL/issues/75)
 
-## Xcode & Tuist & fastlane
+## Xcode & Tuist & fastlane & XcodeCloud
 - [Firebase Crashlytics 설정시 Build Phases > Run script의 "Based on dependency analysis" Warning](https://github.com/kimkyuchul/SIL/issues/43)
 - [M시리즈 Mac에서 CocoaPods 설정](https://github.com/kimkyuchul/SIL/issues/49)
 - [CocoaPods Podfile에 버전 명시를 안한다면?](https://github.com/kimkyuchul/SIL/issues/54)
@@ -95,6 +95,7 @@
 - [Xcode15) Sandbox: bash deny(1) file-write-create 에러](https://github.com/kimkyuchul/SIL/issues/70)
 - [[Macro] external macro implementation type 'composablearchitecturemacros.observablestatemacro' could not be found for macro 'observablestate()’](https://github.com/kimkyuchul/SIL/issues/73)
 - [[fastlane] ComputeTargetDependencyGraph ARCHIVE FAILED 이슈](https://github.com/kimkyuchul/SIL/issues/82)
+- [XcodeCloud DESERIALIZATION FAILURE 이슈](https://github.com/kimkyuchul/SIL/issues/92)
 
 ## CS
 - [HTTP 기본개념](https://github.com/kimkyuchul/SIL/issues/2)
