@@ -29,6 +29,7 @@
 - [Continuations in Swift](https://github.com/kimkyuchul/SIL/issues/72)
 - [SnapKit Constraint update 활용하여 동적 높이 CollectionView 구현](https://github.com/kimkyuchul/SIL/issues/74)
 - [WKWebView Cache 제거](https://github.com/kimkyuchul/SIL/issues/84)
+- [iOS 유니버셜 링크(Universal Link) 백엔드에서 적용해야 할 설정 정리](https://github.com/kimkyuchul/SIL/issues/93)
 
 ## SwiftUI
 - [Xcode15 SwiftUI Preview layout](https://github.com/kimkyuchul/SIL/issues/62)
