@@ -99,6 +99,8 @@
 - [[fastlane] ComputeTargetDependencyGraph ARCHIVE FAILED 이슈](https://github.com/kimkyuchul/SIL/issues/82)
 - [XcodeCloud DESERIALIZATION FAILURE 이슈](https://github.com/kimkyuchul/SIL/issues/92)
 - [Core NFC 관련 아카이빙 실패 에러 (Invalid entitlement for core nfc framework. The sdk version '17.4' and min OS version '15.0' are not compatible for the entitlement 'com.apple.developer.nfc.readersession.formats' because 'NDEF is disallowed'.)](https://github.com/kimkyuchul/SIL/issues/95)
+- [Xcode16 CocoaPods 이슈 모음](https://github.com/kimkyuchul/SIL/issues/96)
+- [Missing required module 'Firebase' for Unit test](https://github.com/kimkyuchul/SIL/issues/97)
 
 ## CS
 - [HTTP 기본개념](https://github.com/kimkyuchul/SIL/issues/2)
