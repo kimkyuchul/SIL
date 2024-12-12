@@ -30,6 +30,7 @@
 - [SnapKit Constraint update 활용하여 동적 높이 CollectionView 구현](https://github.com/kimkyuchul/SIL/issues/74)
 - [WKWebView Cache 제거](https://github.com/kimkyuchul/SIL/issues/84)
 - [iOS 유니버셜 링크(Universal Link) 백엔드에서 적용해야 할 설정 정리](https://github.com/kimkyuchul/SIL/issues/93)
+- [addingPercentEncoding + percentEncodedQueryItems](https://github.com/kimkyuchul/SIL/issues/98)
 
 ## SwiftUI
 - [Xcode15 SwiftUI Preview layout](https://github.com/kimkyuchul/SIL/issues/62)
@@ -53,7 +54,6 @@
 - [iOS 16 이하에서 TCA FullScreenCover 사용시 이슈](https://github.com/kimkyuchul/SIL/issues/90)
 - [.sheet 내부에서 UIViewControllerRepresentable or UIViewRepresentable 사용 시 sheet가 빈화면으로 먼저 노출되는 이슈](https://github.com/kimkyuchul/SIL/issues/91)
 - [ScrollView 스크롤 시 SafeArea Top 영역을 무시하지 않는 방법](https://github.com/kimkyuchul/SIL/issues/94)
-- [addingPercentEncoding + percentEncodedQueryItems](https://github.com/kimkyuchul/SIL/issues/98)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
