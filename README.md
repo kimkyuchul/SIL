@@ -31,6 +31,7 @@
 - [WKWebView Cache 제거](https://github.com/kimkyuchul/SIL/issues/84)
 - [iOS 유니버셜 링크(Universal Link) 백엔드에서 적용해야 할 설정 정리](https://github.com/kimkyuchul/SIL/issues/93)
 - [addingPercentEncoding + percentEncodedQueryItems](https://github.com/kimkyuchul/SIL/issues/98)
+- [iOS 푸시 알림 매번 까먹는 거 정리](https://github.com/kimkyuchul/SIL/issues/99)
 
 ## SwiftUI
 - [Xcode15 SwiftUI Preview layout](https://github.com/kimkyuchul/SIL/issues/62)
