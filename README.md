@@ -73,6 +73,7 @@
 - [OptimizationTips](https://github.com/kimkyuchul/SIL/issues/39)
 - [Array 요소에 안전하게 접근하기](https://github.com/kimkyuchul/SIL/issues/52)
 - [Dictionary default value 사용](https://github.com/kimkyuchul/SIL/issues/69)
+- [replaceSubrange + AttributedString](https://github.com/kimkyuchul/SIL/issues/101)
 
 ## RxSwift
 - [RxSwift로 회원가입 리펙토링](https://gravel-drink-4ae.notion.site/RxSwift-1ed8afc381424694aa71e568bda6175f?pvs=4)
