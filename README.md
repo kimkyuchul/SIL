@@ -56,6 +56,7 @@
 - [.sheet 내부에서 UIViewControllerRepresentable or UIViewRepresentable 사용 시 sheet가 빈화면으로 먼저 노출되는 이슈](https://github.com/kimkyuchul/SIL/issues/91)
 - [ScrollView 스크롤 시 SafeArea Top 영역을 무시하지 않는 방법](https://github.com/kimkyuchul/SIL/issues/94)
 - [iOS 17.0~17.2 한 화면에 navigationDestination 여러 개 사용 시 이슈](https://github.com/kimkyuchul/SIL/issues/100)
+- [iOS 16 이하 기기에서 NavigationStack의 .navigationDestination(isPresented:) 사용 시 ObservableObject Binding 이슈](https://github.com/kimkyuchul/SIL/issues/103)
 
 ## Swift
 - [일회용 함수 Closure](https://github.com/kimkyuchul/SIL/issues/6)
