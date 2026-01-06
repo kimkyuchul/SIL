@@ -111,7 +111,7 @@
 - [Meet async await in Swift ‐ WWDC21](https://github.com/kimkyuchul/SIL/wiki/Meet-async-await-in-Swift-%E2%80%90-WWDC21)
 - [Explore structured concurrency in Swift ‐ WWDC 2021](https://github.com/kimkyuchul/SIL/wiki/Explore-structured-concurrency-in-Swift-%E2%80%90-WWDC-2021)
 - [Meet AsyncSequence ‐ WWDC 2021](https://github.com/kimkyuchul/SIL/wiki/Meet-AsyncSequence-%E2%80%90-WWDC-2021)
-- [Meet Swift Async Algorithms ‐ WWDC 2022](https://github.com/kimkyuchul/SIL/wiki/Meet-Swift-Async-Algorithms-%E2%80%90-WWDC-2022)
+- [Beyond the Basics of Structured Concurrency ‐ WWDC 2023](https://github.com/kimkyuchul/SIL/wiki/Beyond-the-Basics-of-Structured-Concurrency-%E2%80%90-WWDC-2023)
 
 ## CS
 - [HTTP 기본개념](https://github.com/kimkyuchul/SIL/issues/2)
