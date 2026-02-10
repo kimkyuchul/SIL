@@ -124,3 +124,4 @@
 - [CNN 4편](https://github.com/kimkyuchul/SIL/issues/11)
 - [RNN 1편](https://github.com/kimkyuchul/SIL/issues/12)
 - [RNN 1-2편](https://github.com/kimkyuchul/SIL/issues/13)
+- [C 포인터 (1)](https://github.com/kimkyuchul/SIL/issues/105)
