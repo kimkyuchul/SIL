@@ -126,3 +126,4 @@
 - [RNN 1-2편](https://github.com/kimkyuchul/SIL/issues/13)
 - [C 포인터 (1)](https://github.com/kimkyuchul/SIL/issues/105)
 - [C 포인터 (2)](https://github.com/kimkyuchul/SIL/issues/106)
+- [C 포인터 (3)](https://github.com/kimkyuchul/SIL/issues/107)
