@@ -127,3 +127,6 @@
 - [C 포인터 (1)](https://github.com/kimkyuchul/SIL/issues/105)
 - [C 포인터 (2)](https://github.com/kimkyuchul/SIL/issues/106)
 - [C 포인터 (3)](https://github.com/kimkyuchul/SIL/issues/107)
+- [운영체제](https://github.com/kimkyuchul/SIL/issues/108)
+- [주 & 가상 메모리 관리](https://github.com/kimkyuchul/SIL/issues/109)
+- [프로세스 스케줄링](https://github.com/kimkyuchul/SIL/issues/110)
