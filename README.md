@@ -130,3 +130,4 @@
 - [운영체제](https://github.com/kimkyuchul/SIL/issues/108)
 - [주 & 가상 메모리 관리](https://github.com/kimkyuchul/SIL/issues/109)
 - [프로세스 스케줄링](https://github.com/kimkyuchul/SIL/issues/110)
+- [실시간 통신 방식 정리 Polling / Long Polling / SSE / WebSocket](https://github.com/kimkyuchul/SIL/issues/111)
